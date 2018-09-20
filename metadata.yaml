@@ -1,5 +1,8 @@
 _repo: Metsat-ja-yhtiot_52901
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kajander, Kalle
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46417
     wikipedia: https://fi.wikipedia.org/wiki/Kalle_Kajander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52901#Metsat-ja-yhtiot
 gutenberg_issued: '2016-08-26'
 gutenberg_type: Text
 identifiers:
