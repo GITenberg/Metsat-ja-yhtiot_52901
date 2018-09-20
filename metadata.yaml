@@ -1,0 +1,27 @@
+_repo: Metsat-ja-yhtiot_52901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kajander, Kalle
+    birthdate: 1862
+    deathdate: 1928
+    gutenberg_agent_id: '46417'
+    url: http://www.gutenberg.org/2009/agents/46417
+    wikipedia: https://fi.wikipedia.org/wiki/Kalle_Kajander
+description: ''
+gutenberg_issued: '2016-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52901'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Land tenure -- Finland'
+- !lcsh 'Farms -- Finland'
+- !lcc 'SD'
+- !lcsh 'Forests and forestry -- Finland'
+- GITenberg
+title: Metsät ja yhtiöt
+url: http://www.gutenberg.org/ebooks/52901
